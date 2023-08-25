@@ -1,2 +1,2 @@
 # bankswift-profile-settings
-Spring boot Microservices for the profile settings
+Spring boot Microservice for the profile settings
